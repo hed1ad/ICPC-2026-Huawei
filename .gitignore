@@ -1,0 +1,4 @@
+CLAUDE.md
+target/
+__pycache__/
+*.pyc
