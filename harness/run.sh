@@ -20,7 +20,7 @@ for a in "$@"; do
 done
 
 if [[ ! -x "$BIN" ]]; then
-  echo "нет бинаря $BIN — сначала: g++ -O2 -std=c++17 -o build/v7 src/2251A_v7.cpp" >&2
+  echo "нет бинаря $BIN — сначала: g++ -O2 -std=c++23 -o build/main src/main.cpp" >&2
   exit 2
 fi
 
