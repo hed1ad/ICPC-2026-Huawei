@@ -1,4 +1,14 @@
 CLAUDE.md
-target/
+logs/*
+
+# сборка
+build/
+*.o
+sol
+
+# python-харнесс
 __pycache__/
 *.pyc
+
+# сгенерированные тесты: harness/gen.py воспроизводит их точно (сид фиксирован)
+tests/gen/

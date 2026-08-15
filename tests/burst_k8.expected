@@ -1,0 +1,11 @@
+verdict ok
+requests 12
+tokens 27
+first_arrival 0.000000
+last_token 446.755968
+tp 0.060436
+tdr 147.535461
+tpot 56.888567
+tp_comp 0.023190
+wait_comp 0.000000
+score 16.233
